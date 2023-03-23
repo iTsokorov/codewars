@@ -1,4 +1,4 @@
-package com.tsokorov.squareSum;
+package com.codewars.squareSum;
 
 import java.util.Arrays;
 

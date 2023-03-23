@@ -1,6 +1,4 @@
-package com.tsokorov.stringBuilder;
-
-import java.util.Locale;
+package com.codewars.stringBuilder;
 
 public class Main {
     static String name = "Pavlo";

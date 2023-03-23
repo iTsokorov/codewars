@@ -1,4 +1,4 @@
-package com.tsokorov.isPalindrome;
+package com.codewars.isPalindrome;
 
 public class Main {
     public static void main(String[] args) {

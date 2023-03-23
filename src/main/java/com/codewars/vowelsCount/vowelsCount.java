@@ -1,4 +1,4 @@
-package com.tsokorov.vowelsCount;
+package com.codewars.vowelsCount;
 
 public class vowelsCount {
     public static void main(String[] args) {

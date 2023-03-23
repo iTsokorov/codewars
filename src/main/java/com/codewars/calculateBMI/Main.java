@@ -1,4 +1,4 @@
-package com.tsokorov.calculateBMI;
+package com.codewars.calculateBMI;
 
 public class Main {
     public static void main(String[] args) {

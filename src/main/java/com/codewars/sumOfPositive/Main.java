@@ -1,4 +1,4 @@
-package com.tsokorov.sumOfPositive;
+package com.codewars.sumOfPositive;
 
 public class Main {
     public static void main(String[] args) {

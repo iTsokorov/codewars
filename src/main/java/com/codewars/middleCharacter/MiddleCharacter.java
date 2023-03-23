@@ -1,4 +1,4 @@
-package com.tsokorov.middleCharacter;
+package com.codewars.middleCharacter;
 
 public class MiddleCharacter {
     public static void main(String[] args) {

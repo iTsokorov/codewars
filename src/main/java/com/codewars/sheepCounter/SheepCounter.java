@@ -1,4 +1,4 @@
-package com.tsokorov.sheepCounter;
+package com.codewars.sheepCounter;
 
 public class SheepCounter {
     public static void main(String[] args) {

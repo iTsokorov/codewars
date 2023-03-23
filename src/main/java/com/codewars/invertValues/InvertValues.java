@@ -1,4 +1,4 @@
-package com.tsokorov.invertValues;
+package com.codewars.invertValues;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package com.tsokorov.minAndMaxValuesOfList;
+package com.codewars.minAndMaxValuesOfList;
 
 import java.util.Arrays;
 import java.util.Collections;

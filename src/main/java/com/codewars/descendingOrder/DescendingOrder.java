@@ -1,4 +1,4 @@
-package com.tsokorov.descendingOrder;
+package com.codewars.descendingOrder;
 
 import java.util.Arrays;
 

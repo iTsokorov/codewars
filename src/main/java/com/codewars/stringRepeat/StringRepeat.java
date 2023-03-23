@@ -1,4 +1,4 @@
-package com.tsokorov.stringRepeat;
+package com.codewars.stringRepeat;
 
 public class StringRepeat {
     public static void main(String[] args) {

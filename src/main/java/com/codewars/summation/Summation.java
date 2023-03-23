@@ -1,4 +1,4 @@
-package com.tsokorov.summation;
+package com.codewars.summation;
 
 public class Summation {
     /*
