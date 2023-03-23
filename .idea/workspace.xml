@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bd8c030-d7fc-4a42-9d41-88d043bd9b82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsokorov/calculateBMI/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsokorov/descendingOrder/DescendingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsokorov/invertValues/InvertValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsokorov/isPalindrome/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsokorov/middleCharacter/MiddleCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsokorov/minAndMaxValuesOfList/MinAndMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsokorov/sheepCounter/SheepCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsokorov/squareSum/squareSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsokorov/stringBuilder/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsokorov/stringRepeat/StringRepeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsokorov/sumOfPositive/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsokorov/summation/Summation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsokorov/vowelsCount/vowelsCount.java" afterDir="false" />
-    </list>
+    <list default="true" id="1bd8c030-d7fc-4a42-9d41-88d043bd9b82" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +38,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
@@ -149,7 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674476507763</updated>
       <workItem from="1679323506924" duration="291000" />
-      <workItem from="1679576652907" duration="822000" />
+      <workItem from="1679576652907" duration="1235000" />
     </task>
     <servers />
   </component>
